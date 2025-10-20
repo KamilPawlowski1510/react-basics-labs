@@ -44,3 +44,7 @@ div {
 .description {
   color: black;
 }
+
+.priority {
+  font-weight: bold;
+}
